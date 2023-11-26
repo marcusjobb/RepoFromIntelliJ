@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bajs/Bajs.iml" filepath="$PROJECT_DIR$/Bajs/Bajs.iml" />
       <module fileurl="file://$PROJECT_DIR$/asdfkljasdf.iml" filepath="$PROJECT_DIR$/asdfkljasdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
